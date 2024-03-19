@@ -1,0 +1,7 @@
+<!-- <app-header (routeSelectedEvent)="onNavigate($event)"></app-header> -->
+<app-header></app-header>
+<div class="container">
+  <!-- <app-recipe-book *ngIf="currentRoute === 'recipe' || currentRoute === ''"></app-recipe-book>
+  <app-shopping-list *ngIf="currentRoute === 'shopping-list'"></app-shopping-list> -->
+  <router-outlet></router-outlet>
+</div>

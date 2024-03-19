@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Jollof Rice",
+    "description": "Rice with tomato.",
+    "imagePath": "https://spoonacular.com/recipeImages/716298-312x231.jpg",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": 2
+      },
+      {
+        "name": "Tomato",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Pepper Pulled Pork",
+    "description": "Pulled Pork cooked in Dr. Pepper.",
+    "imagePath": "https://spoonacular.com/recipeImages/641627-312x231.jpg",
+    "ingredients": [
+      {
+        "name": "Pulled Pork",
+        "amount": 3
+      },
+      {
+        "name": "Dr. Pepper",
+        "amount": 1
+      }
+    ]
+  }
+]
